@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0885-spiral-matrix-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
