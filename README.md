@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
