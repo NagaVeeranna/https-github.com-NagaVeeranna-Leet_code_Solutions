@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
