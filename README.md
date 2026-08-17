@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
