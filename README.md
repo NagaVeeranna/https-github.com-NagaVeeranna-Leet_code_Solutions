@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/0981-time-based-key-value-store) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/NagaVeeranna/https-github.com-NagaVeeranna-Leet_code_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
